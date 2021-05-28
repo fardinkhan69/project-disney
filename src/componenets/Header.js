@@ -61,6 +61,7 @@ display: flex;
 flex:1;
 margin-left: 28px;
 align-items: center;
+overflow-x: hidden;
 
     a{
         display: flex;

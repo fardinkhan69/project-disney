@@ -16,6 +16,7 @@ function App() {
       <Router>
         <Switch>
           <Route exact path='/'>
+            <Header></Header>
             <Home></Home>
           </Route>
           <Route path='/login'>
